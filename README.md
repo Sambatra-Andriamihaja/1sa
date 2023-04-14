@@ -1,5 +1,6 @@
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="100px;"/>
-
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="100px;"/>
+</div>
 ---
 
 # 1sa
@@ -32,5 +33,7 @@ iray sy efatra arivo sy iray alina
 ```
 </br></br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50px;" />
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50px;" />
+</div>
           
