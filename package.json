@@ -1,0 +1,27 @@
+{
+  "name": "1sa",
+  "version": "1.0.0",
+  "description": "Javascript module that translates a number into Malagasy letters",
+  "main": "1sa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sambatra-Andriamihaja/1sa.git"
+  },
+  "keywords": [
+    "1sa",
+    "isa",
+    "Malagasy"
+  ],
+  "author": "Sambatra Andriamihaja",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sambatra-Andriamihaja/1sa/issues"
+  },
+  "homepage": "https://github.com/Sambatra-Andriamihaja/1sa#readme",
+  "dependencies": {
+    "1sa": "^1.0.0"
+  }
+}
