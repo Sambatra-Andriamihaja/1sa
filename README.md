@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="100px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="200px;"/>
 </div>
----
+
 
 # 1sa
 <p>
