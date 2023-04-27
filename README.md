@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/img/1sa_logo.png" alt="1sa" width="200px;"/>
+    <img src="assets/img/1sa_logo_transparent.png" alt="1sa" width="200px;"/>
 </div>
 
 
